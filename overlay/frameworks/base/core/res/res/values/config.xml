@@ -46,17 +46,6 @@
         <item>mobile_vtims,28,0,2,-1,true</item>
     </string-array>
 
-    <!-- Set of NetworkInfo.getType() that reflect data usage. -->
-    <integer-array name="config_data_usage_network_types">
-        <item>0</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>10</item>
-        <item>12</item>
-        <item>22</item>
-    </integer-array>
-
     <!-- Flag specifying whether VoLTE is available on device -->
     <bool name="config_device_volte_available">true</bool>
 
