@@ -34,9 +34,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <bool name="config_device_wfc_ims_available">true</bool>
     <bool name="config_carrier_wfc_ims_available">true</bool>
 
-    <string-array name="wfcOperatorErrorCodes">
-        <item>REG09</item>
-    </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
         <item>To make calls and send messages over Wi-Fi, first ask your carrier to set up this service. Then turn on Wi-Fi calling again from Settings.</item>
     </string-array>
